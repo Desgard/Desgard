@@ -8,4 +8,4 @@
 - 📫 How to reach me:
   - Email: gua@desgard.com
   - Twitter: https://twitter.com/Desgard_Duan
-- 🌱 I’m currently learning iOS, Android, React.js, Electron.
+- 🌱 I’m currently learning Web3 and Rust. I think blockchain is future and code is law! 
